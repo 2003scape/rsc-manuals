@@ -1,0 +1,63 @@
+[
+    {
+        "section": "Combat",
+        "images": [
+            { "src": "duelling.jpg", "caption": "Duelling" },
+            {
+                "src": "player-killing.jpg",
+                "caption": "Player killing in the Wilderness"
+            }
+        ]
+    },
+    {
+        "section": "Skills",
+        "images": [
+            { "src": "woodcutting.jpg", "caption": "Woodcutting" },
+            { "src": "smithing.jpg", "caption": "Smithing" },
+            { "src": "ranging.jpg", "caption": "Ranging" },
+            { "src": "mining.jpg", "caption": "Mining" },
+            { "src": "fishing.jpg", "caption": "Fishing" }
+        ]
+    },
+    {
+        "section": "Terrains",
+        "images": [
+            { "src": "jungle.png", "caption": "Jungle" },
+            { "src": "white-mountains.jpg", "caption": "White Mountains" },
+            { "src": "waterfall.jpg", "caption": "Waterfall" },
+            { "src": "volcano.jpg", "caption": "Volcano" },
+            { "src": "dungeon.jpg", "caption": "Dungeon" },
+            { "src": "underground.jpg", "caption": "Cave" },
+            { "src": "wilderness.png", "caption": "Wilderness" }
+        ]
+    },
+    {
+        "section": "Monsters",
+        "images": [
+            { "src": "scorpion.jpg", "caption": "Scorpions" },
+            { "src": "zombies.png", "caption": "Zombies" },
+            { "src": "red-dragon.jpg", "caption": "Red Dragon" },
+            { "src": "ogres.jpg", "caption": "Ogres" },
+            { "src": "delrith.jpg", "caption": "Delrith" }
+        ]
+    },
+    {
+        "section": "Buildings and Landmarks",
+        "images": [
+            { "src": "inside-building.png", "caption": "Inside a building" },
+            { "src": "castle.jpg", "caption": "Outside a castle" },
+            { "src": "boat.jpg", "caption": "Boat at Port Sarim" },
+            { "src": "gnome-village.jpg", "caption": "In Gnome Village" }
+        ]
+    },
+    {
+        "section": "Game Interface",
+        "images": [
+            { "src": "stats.jpg", "caption": "Stats & Inventory" },
+            { "src": "inventory.jpg", "caption": "Stats & Inventory" },
+            { "src": "magic.jpg", "caption": "Magic & Prayers" },
+            { "src": "map.jpg", "caption": "Map" },
+            { "src": "options.jpg", "caption": "Options" }
+        ]
+    }
+]

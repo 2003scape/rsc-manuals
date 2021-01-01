@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Offensive Language",
+        "body": "You must not use any language which may be considered by others to be offensive, racist or obscene.",
+        "image": "language.jpg"
+    },
+    {
+        "name": "Scamming/Lying",
+        "body": "You must not scam or deceive other players. Lying to other players for your own personal gain is not in the spirit of the game.",
+        "image": "scamming.jpg"
+    },
+    {
+        "name": "Harassing others",
+        "body": "Threatening, stalking, harassing (sexually or otherwise) is not only against the rules, but it's also illegal, and may result in legal action being taken against you.",
+        "image": "harass.jpg"
+    },
+    {
+        "name": "Cheating/Bug Abuse",
+        "body": "You must not use or attempt to use any cheats or errors which you find in our software. Any exploits which you find must be immediately reported to Jagex.",
+        "image": "cheating.jpg"
+    },
+    {
+        "name": "Log Out",
+        "body": "When you are not playing the game you must log-out. You may not circumvent any of our mechanisms designed to log out inactive users automatically.",
+        "image": "locked-computer.jpg"
+    },
+    {
+        "name": "Account Sharing",
+        "body": "Each account should only be used by ONE person. Account sharing is NOT allowed. You must not sell, transfer, share, or lend your account to anyone else.",
+        "image": "sharing.jpg"
+    },
+    {
+        "name": "Bots/Macros",
+        "body": "You must not attempt to use other programs (e.g. bots, macros or autominers) in conjunction with our games to give yourself an unfair advantage at the game.",
+        "image": "macros.jpg"
+    },
+    {
+        "name": "Multiple Logging In",
+        "body": "You may create more than one RuneScape account, but if you do, you may not log in more than one account at any time, and they must not interact with each other in ANY way.",
+        "image": "multilog.jpg"
+    },
+    {
+        "name": "Encouragement Of Rule Breaking",
+        "body": "You must not encourage others to break the RuneScape rules. This includes advertising scam websites or any software such as detailed in Rule 7.",
+        "image": "encourage-rule-breaking.jpg"
+    },
+    {
+        "name": "Misuse Of Customer Support",
+        "body": "You must not misuse RuneScape Customer Support. This includes threatening or reporting an innocent person, or by supplying false information.",
+        "image": "misuse.jpg"
+    },
+    {
+        "name": "Advertising",
+        "body": "You are not allowed to actively advertise in the RuneScape game or website. This includes advertising any website or product and no web addresses are allowed.",
+        "image": "advertising.jpg"
+    }
+]
