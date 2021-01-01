@@ -4,7 +4,7 @@
   "description": "runescape classic manuals",
   "main": "manuals.json",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "node ./create-json.js > manuals.json"
   },
   "repository": {
     "type": "git",
