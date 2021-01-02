@@ -1,6 +1,6 @@
 <h2 class="rsc-centre-text">Ranging Guide</h2>
 
-<img class="rsc-image" src="/manual-images/ranged.gif" align="right" />
+<a href="/manual-images/ranged.gif"><img class="rsc-image" src="/manual-images/ranged.gif" align="right" /></a>
 
 The ranged skill is used for attacking players or monsters from a distance with either bows and arrows or crossbows and crossbow bolts. This skill is useful if you want to help a friend fight. More than 1 person can attack an monster or player by using the ranged skill.
 

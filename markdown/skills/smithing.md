@@ -22,6 +22,9 @@ You will need different combinations of ores and different smithing levels to ma
 |<img src="/items/384.png" alt="Silver bar" />|Silver|1 Silver|20|
 |<img src="/items/171.png" alt="Steel bar" />|Steel|2 coal, 1 Iron ore|30|
 |<img src="/items/172.png" alt="Gold bar" />|Gold|1 Gold|40|
+|<img src="/items/173.png" alt="Mithril bar" />|Mithri|4 Coal, 1 Mithril ore|50|
+|<img src="/items/174.png" alt="Adamantite bar" />|Adamantite|6 Coal, 1 Adamantite ore|70|
+|<img src="/items/408.png" alt="Runite bar" />|Runite|8 Coal, 1 Runite ore|85|
 
 </div>
 
