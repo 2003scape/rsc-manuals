@@ -6,7 +6,7 @@ To chop down a tree, just left click on a tree to select chop. If you have an ax
 
 More powerful axes will increase your chance of cutting down the tree.
 
-<img class="rsc-image" src="/manual-images/woodcutting.png" align="right" />
+<a href="/manual-images/woodcutting.png"><img class="rsc-image" src="/manual-images/woodcutting.png" alt="A player chopping an oak tree in Seers' Village with an iron axe" align="right" /></a>
 
 ### Woodcutting level requirements
 
