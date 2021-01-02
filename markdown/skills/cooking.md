@@ -12,7 +12,7 @@ A guide to the different foods you can cook is shown below. In addition to the f
 
 A list of the different foods you can cook in Runescape are shown below with the cooking level needed (cooking) and the amount it heals your hit points (healing).
 
-<div class="rsc-skill-table">
+<div class="rsc-skill-table rsc-cooking-table">
 
 |Food|Level|Food|Level|
 |----|-----|----|-----|
