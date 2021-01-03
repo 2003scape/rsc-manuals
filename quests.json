@@ -169,7 +169,7 @@
             "start": "East Varrock",
             "npc": "Dimintheis",
             "length": "Long",
-            "requirements": "lvl 40 Mining\nLevel 40 Smithing\nLevel 40 Crafting\n*Level 59 Magic\nDefeat a lvl 121 Demon",
+            "requirements": "lvl 40 Mining\nLevel 40 Smithing\nLevel 40 Crafting\nLevel 59 Magic\nDefeat a lvl 121 Demon",
             "summary": "The Fitzharmon family crest has gone missing, and the family honour has been lost. Can you find the crest and return it to Dimintheis in Varrock? There are 3 different rewards available, but you can only choose one, so choose carefully!"
         },
         {
@@ -237,7 +237,7 @@
             "summary": "The Grand Tree, which shelters the majority of RuneScape's small gnome population, is dying. Is it human sabotage or an inside job? Help King Shareem to find the true cause and save the tree gnomes from an uncertain fate."
         },
         {
-            "name": "Underground Pass|The Underground Pass",
+            "name": "Underground Pass",
             "start": "East Ardougne",
             "npc": "King Lathas",
             "length": "Long",
@@ -261,7 +261,7 @@
             "summary": "For several years now the dwarven black guard have been developing the lastest in projectile warfare. Now with the constant attack of goblin renegades, the dwarven troops who protect the mines need to put this secret weapon into action. Only with your help can the true power of this cannon be harnessed!"
         },
         {
-            "name": "Digsite (quest)|Digsite Quest",
+            "name": "Digsite Quest",
             "start": "Archaeological digsite, signposted east of Varrock",
             "npc": "Examiner",
             "length": "Long",
@@ -270,10 +270,10 @@
         },
         {
             "name": "Legends Quest",
-            "start": "Legends Guild Main gates - west of the Barbarian outpost ",
-            "npc": "Legends Guild Guards ",
-            "length": "Long ",
-            "requirements": "Quest Points and must have completed these quests:\nHero's Quest\nFamily Crest Quest\nUnderground Pass Quest\nWaterfall Quest\nShilo Village Quest\nSkill requirements:\nLevel 52 Mining\nLevel 50 Agility\nLevel 50 Crafting\nLevel 50 Smithing\nLevel 50 Strength\nLevel 50 Thieving\nLevel 50 Woodcutting\nLevel 45 Herblaw\nLevel 42 Prayer ",
+            "start": "Legends Guild Main gates - west of the Barbarian outpost",
+            "npc": "Legends Guild Guards",
+            "length": "Long",
+            "requirements": "Quest Points and must have completed these quests:\nHero's Quest\nFamily Crest Quest\nUnderground Pass Quest\nWaterfall Quest\nShilo Village Quest\nSkill requirements:\nLevel 52 Mining\nLevel 50 Agility\nLevel 50 Crafting\nLevel 50 Smithing\nLevel 50 Strength\nLevel 50 Thieving\nLevel 50 Woodcutting\nLevel 45 Herblaw\nLevel 42 Prayer",
             "summary": "Accept the challenge of the Legends Guild to map the Southern part of Karamja Island, make friends with the natives and bring back a prize to display in the Legends Guild Main Hall."
         },
         {
@@ -365,7 +365,7 @@
             "summary": "Trufitus Shakaya of the Taie Bwo Wannai Village requires that you collect five special jungle herbs for a potion so he can commune with his Gods."
         },
         {
-            "name": "Shilo Village (quest)|Shilo Village Quest",
+            "name": "Shilo Village Quest",
             "start": "South of Karamja Island",
             "npc": "Anyone you find there",
             "length": "Long",
@@ -381,7 +381,7 @@
             "summary": "The observatory in South West Ardougne has been ransacked by a family of nearby goblins. Can you help the professors to rebuild it?\n\nUse your skills at crafting to make the various parts, and fight your way through the cavern under the observatory. Use the telescope and the stars hold a secret for you."
         },
         {
-            "name": "Watchtower (quest)|Watch Tower",
+            "name": "Watch Tower",
             "start": "Watch Tower close to city gates of Yanille",
             "npc": "Watch Tower Wizard",
             "length": "Long",
@@ -398,10 +398,10 @@
         },
         {
             "name": "Gertrude's Cat",
-            "start": "Gertrude's House, just opposite Juliet's place on the outskirts of Varrock ",
-            "npc": "Gertrude ",
-            "length": "Short ",
-            "requirements": "Level 5 Fishing Recommended ",
+            "start": "Gertrude's House, just opposite Juliet's place on the outskirts of Varrock",
+            "npc": "Gertrude",
+            "length": "Short",
+            "requirements": "Level 5 Fishing Recommended",
             "summary": "Gertrude's cat has been missing for some time now - for her piece of mind her prized pet must be rescued.\n\nHandling cats isn't an easy business. They get hungry and need plenty of attention but if you're the pet type, then this is the quest for you!"
         }
     ]
