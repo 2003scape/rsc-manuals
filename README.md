@@ -7,14 +7,18 @@ runescape classic manuals.
 
 ## manuals
 *[./manuals.json](/manuals.json)* contains each markdown file in
-[./markdown](./markdown) in an object tree based on the directory structure.
+*[./markdown](./markdown)* in an object tree based on its directory structure.
 
 ```javascript
 {
     "terms": "...",
-    "about": { "getting-started": "..." }, // ...
+    "about": {
+        "getting-started": "...",
+        // ...
+    },
+    // ...
 }
 ```
 
 ## license
-CC-BY-SA 4.0
+CC-BY-SA-4.0 https://creativecommons.org/licenses/by-sa/4.0/legalcode
