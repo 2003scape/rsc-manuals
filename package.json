@@ -1,8 +1,8 @@
 {
   "name": "@2003scape/rsc-manuals",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "runescape classic manuals",
-  "main": "manuals.json",
+  "main": "./manuals.json",
   "scripts": {
     "build": "node ./create-json.js > manuals.json"
   },
