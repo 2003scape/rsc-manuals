@@ -1,6 +1,8 @@
 # rsc-manuals
 runescape classic manuals.
 
+![](./doc/screenshot.png)
+
 ## install
 
     $ npm install @2003scape/rsc-manuals
